@@ -13,5 +13,3 @@
   - [How to search and process millions of records cheap in real-time with AWS](https://medium.com/@joseignaciocastelli92/how-to-search-andf-process-millions-of-records-cheap-in-real-time-with-aws-b0ce5bb8d9fc?source=friends_link&sk=7b54c756d8e7756418b5263c77a2365b)
   - [How to create a Continuous Deployment process using ECS-Fargate-Docker-Travis](https://medium.com/@joseignaciocastelli92/how-to-create-a-continuous-deployment-process-using-ecs-fargate-docker-travis-410d84b4d99e)
 
-- 📫 How to reach me: jose.castelli@toptal.com
-
