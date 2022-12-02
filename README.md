@@ -2,7 +2,7 @@
 
 - 🤖 I've been on this since I was thirteen yo, and I really love what I do!
 - 🎮 I do love crafting game engines from scratch in different types of languages by using different types of libraries, just for fun
-- 👨‍💻 I’m currently working as Tech Lead/Senior Sofware Engineer at [Toptal.com](https://www.toptal.com/resume/jose-castelli)
+<!-- - 👨‍💻 I’m currently working as Tech Lead/Senior Sofware Engineer at [Toptal.com](https://www.toptal.com/resume/jose-castelli) --> 
 - 👷 My preferable programming languages are Go, NodeJs/TS, Python and Java
 - 🏗️ I have a ton of experience doing Devops, designing architectures, mainly working with AWS and GCP as cloud providers
 - 🏛️ I hold an MS+BS from the University of Buenos Aires
