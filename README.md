@@ -5,7 +5,7 @@
 <!-- - 👨‍💻 I’m currently working as Tech Lead/Senior Sofware Engineer at [Toptal.com](https://www.toptal.com/resume/jose-castelli) --> 
 - 👷 My preferable programming languages are Go, NodeJs/TS, Python and Java
 - 🏗️ I have a ton of experience doing Devops, designing architectures, mainly working with AWS and GCP as cloud providers
-- 🏛️ I hold an MS+BS from the University of Buenos Aires
+- 🏛️ I hold a MS+BS from the University of Buenos Aires
 
 - Besides I like to write to share my knowledge. So please take a look at my most relevant publications. I gonna be releasing new ones soon, so stay tuned:
   - [Python packages with AWS layers — The right way](https://medium.com/@joseignaciocastelli92/python-packages-with-aws-layers-the-right-way-1cff618e0772)
